@@ -34,6 +34,8 @@ Além de apresentar as funções:
  - todo_update_status(id, status): Função que atualiza o status da tarefa usando 0 [Fazer], 1 [Fazendo] e 2 [Feito]
  - todo_delete(id): Função para excluir do banco de dados um TODO
 
+O arquivo "application.py" representa o código de testes da aplicação
+
 ## Como utilizar
 
 Qualquer pessoa é livre para clonar este repositório e executar o código localmente. Para isso, siga as instruções abaixo:
