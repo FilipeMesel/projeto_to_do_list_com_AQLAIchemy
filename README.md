@@ -1,4 +1,4 @@
-# Sistema Bancário em Python
+# To Do List em Python
 
 Este repositório contém um código em Python que busca elaborar um sistema de criar, atualizar e deletar tarefas a partir de uma lista presente em um banco de dados SQL usando a biblioteca "AQLAIchemy"
 
